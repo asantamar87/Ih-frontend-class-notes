@@ -10,6 +10,10 @@
  Creado con ❤️ por Diego Zito, Carlos Garrido & Aleix Abuli.
 </p>
 
+
+
+<h1>Notes by Aldo Santa María</h1>
+
 ## Estructura de Carpetas
 
 - [Html Basics](https://github.com/dzc1/ironhack-nov07/tree/main/section-01-html)
