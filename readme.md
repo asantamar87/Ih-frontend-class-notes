@@ -12,7 +12,7 @@
 
 
 
-# Notes by Aldo Santa María
+## Notes by Aldo Santa María
 
 <h2> Day 1 - Week 1</h2>
 
