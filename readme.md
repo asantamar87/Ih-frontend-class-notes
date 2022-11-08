@@ -14,6 +14,8 @@
 
 ## Notes by Aldo Santa María
 
+![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
+
 <h2> Day 1 - Week 1</h2>
 
 <p>Instalación de herramientas necesarias para comenzar en el desarrollo web, como terminal y github</p>
