@@ -12,7 +12,15 @@
 
 
 
-<h1>Notes by Aldo Santa María</h1>
+## Notes by Aldo Santa María
+
+<h2> Day 1 - Week 1</h2>
+
+<p>Instalación de herramientas necesarias para comenzar en el desarrollo web, como terminal y github</p>
+<p>Introducción a Html, etiquetas, elementos y atributos. Como trabajar con imagenes.</p>
+
+## Laboratorio 1 - week 1
+- Github : https://github.com/asantamar87/lab-html-ironskydive-1
 
 ## Estructura de Carpetas
 
